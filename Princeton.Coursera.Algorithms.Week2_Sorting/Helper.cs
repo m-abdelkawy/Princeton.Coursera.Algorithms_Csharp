@@ -139,7 +139,7 @@ namespace Princeton.Coursera.Algorithms.Week2_Sorting
             Console.WriteLine();
 
             Console.WriteLine("During Sorting: ");
-            Shuffle.ShuffleSort(arr);
+            Shuffling.Shuffle(arr);
             Console.WriteLine();
 
             Console.WriteLine("After Sorting: ");
